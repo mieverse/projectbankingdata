@@ -1,2 +1,5 @@
-# projectbankingdata
-Data analysis project on a multi-sheet bank dataset: data cleaning, merging, EDA, and visualization using Python and Excel.
+# projectBankingData
+This project analyses a banking dataset originally from EXCELERATE competition. 
+It focuses on data understanding, cleaning, merging multiple sheets, exploratory data analysis (EDA), and visualization using Python (pandas, matplotlib) and Excel. 
+
+
